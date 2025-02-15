@@ -1,7 +1,4 @@
-# lab1_traffic_analysis.py
-
 import pandas as pd
-
 def main():
     # Load the traffic dataset
     try:
@@ -23,3 +20,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+    
