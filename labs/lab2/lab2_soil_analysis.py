@@ -68,7 +68,7 @@ def compute_statistics(data):
         return None
 
 # Loading the dataset
-file_path = '/Users/begummutlu/CE49X-Spring25/datasets/soil_test.csv'
+file_path = '../../datasets/soil_test.csv'
 data = load_data(file_path)
 
 # Checking if the data was loaded successfully
